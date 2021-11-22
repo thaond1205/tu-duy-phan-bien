@@ -41,3 +41,18 @@
             - tập chung xoay quanh các vấn đề mà trọng tâm nhất để tìm ra giải pháp nhanh nhất
         + Phát triển khả năng tư duy và sự hiếu kỳ
             - hãy luôn đặt câu hỏi cho các vấn đề 
+    - Thu thập thông tin hiệu quả
+        + có 2 loại thông tin cần thu thập
+            + dữ liệu nền tảng:
+                - được tạo ra từ những quan sát hàng ngày
+                - dữ liệu bạn thu thập càng cao thì sự chính xác càng lớn
+                - cách thu thập dữ liệu hiệu quả
+                    - nghiên cứu: từ các nghiên cứu ngành, khảo sát tư vấn
+                    - nói chuyện với những người đã biết
+                    - tâm lý chung: xem thị trường có đúng với nghiên cứu của bạn không
+
+            + dữ liệu công việc
+                - cách thu thập dữ liệu liên quan đến công việc
+                    - thời gian cần tìm thông tin
+                    - đảm bảo đặt ra các câu hỏi đúng: tránh mất thời gian 
+                    - liệt kê các danh mục thông tin: dựa vào những mục liên kê thì bạn có thể biết được bạn đã thu tập đủ thông tin hay chưa        
